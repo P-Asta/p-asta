@@ -1,5 +1,5 @@
 # 안녕하세요
-저는 멍청한 한국인 이에요 헿
+저는 멍청한사람 이에요
 
 ## 할수있는 언어
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/></a>
