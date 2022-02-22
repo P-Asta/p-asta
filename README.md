@@ -3,7 +3,7 @@
 ## 할수있는 언어
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-8E?style=flat-square&logo=Javascript&logoColor=Yellow"/></a>
-<img src="https://img.shields.io/badge/++-3766AB?style=flat-square&logo=c&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/++-3766AB?style=flat-square&logo=c&logoColor=white"/></a>
 
 
 
