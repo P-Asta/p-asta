@@ -8,4 +8,4 @@
 
 
 ### 활동량
-### ![5-23](https://github-readme-stats.vercel.app/api?username=5-23)
+https://github-readme-stats.vercel.app/api?username=5-23
