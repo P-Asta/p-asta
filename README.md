@@ -1,15 +1,14 @@
-## Hi there 👋 
-I am normal student Backend Developer living in Korea
-## Coding Langs
+## 안녕하세요
+저는 멍청한 한국인 이에요 헿
+## 할수있는 언어
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Go-5AB?style=flat-square&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-8E?style=flat-square&logo=Javascript&logoColor=Yellow"/></a>
 
 
 
 
 ### Stats
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alone1647&hide=contribs,prs)
+### ![5-23](https://github-readme-stats.vercel.app/api?username=5-23&hide=contribs,prs)
 
 
 <!--
