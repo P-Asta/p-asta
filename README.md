@@ -1,7 +1,19 @@
-### Hi there 👋
+## Hi there 👋 
+I am normal student Backend Developer living in Korea
+## Coding Langs
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Go-5AB?style=flat-square&logo=Go&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-8E?style=flat-square&logo=Javascript&logoColor=Yellow"/></a>
+
+
+
+
+### Stats
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alone1647&hide=contribs,prs)
+
 
 <!--
-**5-23/5-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pesinple/Pesinple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
