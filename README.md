@@ -11,3 +11,5 @@
 
 # 언어
 [![5-23](https://github-readme-stats.vercel.app/api/top-langs/?username=5-23)](https://github.com/5-23/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
