@@ -12,3 +12,6 @@
 
 ## 언어
 [![5-23](https://github-readme-stats.vercel.app/api/top-langs/?username=5-23)](https://github.com/5-23/github-readme-stats)
+
+## 냇리파이
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f5e8987-d328-49bf-8412-9b70b5f5c3a2/deploy-status)](https://app.netlify.com/sites/just-quare/deploys)
