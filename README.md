@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/c++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html-000000?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-000000?style=flat-square&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css-000000?style=flat-square&logo=JavaScript3&logoColor=white"/></a>
 
 ## 활동량
 ![활동량](https://github-readme-stats.vercel.app/api?username=5-23)
