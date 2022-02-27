@@ -14,4 +14,4 @@
 ![활동량](https://github-readme-stats.vercel.app/api?username=5-23)
 
 ## 언어
-[![5-23](https://github-readme-stats.vercel.app/api/top-langs/?username=5-23)](https://github.com/5-23/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=5-23c&show_icons=true&theme=gotham)
