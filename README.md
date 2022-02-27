@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/css-000000?style=flat-square&logo=css3&logoColor=white"/></a>
 
 ## 활동량
-![활동량](https://github-readme-stats.vercel.app/api?username=5-23)
+![](https://github-readme-stats.vercel.app/api?username=5-23&show_icons=true&theme=gotham)
 
 ## 언어
-![](https://github-readme-stats.vercel.app/api?username=5-23&show_icons=true&theme=gotham)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=5-23&langs_count=8&layout=compact&theme=gotham)
