@@ -1,5 +1,5 @@
 # 마지막 접속
-- 2020-03-01
+- 2020-03-06
 # 안녕하세요
 저는 멍청한사람 이에요
 
@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html-000000?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-000000?style=flat-square&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css-000000?style=flat-square&logo=go3&logoColor=white"/></a>
 
 ## 활동량
 ![5-23](https://github-readme-stats.vercel.app/api?username=5-23&show_icons=true&theme=gotham)
