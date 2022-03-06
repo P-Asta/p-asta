@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html-000000?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-000000?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/css-000000?style=flat-square&logo=go3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css-000000?style=flat-square&logo=golang3&logoColor=white"/></a>
 
 ## 활동량
 ![5-23](https://github-readme-stats.vercel.app/api?username=5-23&show_icons=true&theme=gotham)
