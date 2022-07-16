@@ -1,5 +1,4 @@
-# 마지막 접속
-- 2020-06-30
+<img src = "https://www.gstatic.com/ui/v1/activityindicator/loading_24.gif"/>
 # 안녕하세요
 저는 멍청한사람 이에요
 
