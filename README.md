@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/php-000000?style=flat-square&logo=php&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-000000?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=java8&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/></a>
 
 
 
