@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/java-3366FF?style=flat-square&logo=java8&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/rust-3366FF?style=flat-square&logo=rust&logoColor=white"/></a> -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=5_23)](https://solved.ac/gghh3017/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=5_23)](https://solved.ac/5_23/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=5_23&theme=warm)
 
 <!-- ![5-23](https://github-readme-stats.vercel.app/api?username=5-23&show_icons=true&theme=synthwave) ![5-23](https://github-readme-stats.vercel.app/api/top-langs/?username=5-23&langs_count=8&layout=compact&theme=synthwave) -->
