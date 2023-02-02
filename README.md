@@ -13,4 +13,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=5_23)](https://solved.ac/5_23/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=5_23&theme=warm)
 
-<!-- ![5-23](https://github-readme-stats.vercel.app/api?username=5-23&show_icons=true&theme=synthwave) ![5-23](https://github-readme-stats.vercel.app/api/top-langs/?username=5-23&langs_count=8&layout=compact&theme=synthwave) -->
+[![Discord](https://discord.c99.nl/widget/theme-1/577266050769485844.png)](http://discord.com/users/535676248513314816)
