@@ -12,5 +12,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=5_23)](https://solved.ac/5_23/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=5_23&theme=warm)
-
-[![Discord](https://discord.c99.nl/widget/theme-1/577266050769485844.png)](http://discord.com/users/577266050769485844)
+![mazandi profile](https://api.opgc.me/githubs/users/5-23/tag/?theme=basic)
