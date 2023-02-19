@@ -6,7 +6,7 @@ document.addEventListener("scroll",(e) => {
         document.querySelector("#favlangs > .fx").style.gap = `${50000/scrollY}px`;
     }
 
-    show_lang(-200, ".title");
+    show_lang(-200, ".title-1");
     show_lang(0, "#favlangs > .fx");
 })
 
