@@ -14,5 +14,6 @@
 ## github
 <div align="center">
     
-![gra](https://github-readme-activity-graph.cyclic.app/graph?username=5-23&bg_color=3366ff&color=ffffff&line=dddddd&point=ffffff&area=true&hide_border=true)
+![gra](https://github-readme-activity-graph.vercel.app/graph?username=5-23&bg_color=3366ff&color=ffffff&line=dddddd&point=ffffff&area=true&hide_border=true)
+
 </div>
