@@ -15,6 +15,8 @@
 <div align="center">
 <a href="https://opgc.me/#/users/5-23" target="_blank"><img src="https://api.opgc.me/githubs/users/5-23/tag/?theme=basic" /></a>   
     
+![status](https://github-readme-stats.vercel.app/api?username=5-23&show_icons=true&theme=white)
+    
 ![gra](https://github-readme-activity-graph.vercel.app/graph?username=5-23&bg_color=3366ff&color=ffffff&line=dddddd&point=ffffff&area=true&hide_border=true)
 
 </div>
