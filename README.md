@@ -106,15 +106,15 @@
         <td>todo</td>
         <td>https://github.com/5-23/todo</td>
     </tr>
-    
     <tr>
         <td>하몽이 디스코드</td>
         <td>https://github.com/5-23/hamong</td>
     </tr>
-    
     <tr>
         <td>imager(분석하다 때려친거라 다시 시작할예정)</td>
         <td>https://github.com/5-23/imager-rs</td>
     </tr>
 </table>
+</details>
+
 </details>
