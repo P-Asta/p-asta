@@ -31,6 +31,10 @@
         <th>소스코드</th>
     </tr>
     <tr>
+        <td>ＬＩＭＢＯ</td>
+        <td>https://github.com/5-23/limbo</td>
+    </tr>
+    <tr>
         <td>rust-tetris</td>
         <td>https://github.com/5-23/rust-tetris</td>
     </tr>
@@ -60,10 +64,6 @@
         <td>돌돌이 디스코드봇</td>
         <td>https://github.com/objectiveTM/stoney-bot</td>
     </tr>
-    <tr>
-        <td>ＬＩＭＢＯ</td>
-        <td>https://github.com/5-23/limbo</td>
-    </tr>
 </table>
 </details>
 
@@ -92,7 +92,7 @@
 
 
 <details>
-<summary>죽은 프로잭</summary>
+<summary>죽은 프로잭트</summary>
 <table>
     <tr>
         <th>프로젝트명</th>
