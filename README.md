@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>개발</summary>
+<summary>개발중</summary>
 <table>
     <tr>
         <th>프로젝트명</th>
@@ -63,6 +63,10 @@
     <tr>
         <td>돌돌이 디스코드봇</td>
         <td>https://github.com/objectiveTM/stoney-bot</td>
+    </tr>
+    <tr>
+        <td>헬리오 윈(서버, 클라이언트, 유틸)</td>
+        <td>https://github.com/helloww-in</td>
     </tr>
 </table>
 </details>
