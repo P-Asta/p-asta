@@ -31,6 +31,10 @@
         <th>소스코드</th>
     </tr>
     <tr>
+        <td>pet</td>
+        <td>https://github.com/5-23/pet</td>
+    </tr>
+    <tr>
         <td>ＬＩＭＢＯ</td>
         <td>https://github.com/5-23/limbo</td>
     </tr>
