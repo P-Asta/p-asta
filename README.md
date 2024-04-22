@@ -4,13 +4,6 @@
 
 </div>
 
-## contribution pet
-<div align="center">
-
-![pet](https://render.gitanimals.org/farms/5-23) 
-
-</div>
-
 ## github
 <div align="center">
 <a href="https://opgc.me/#/users/5-23" target="_blank"><img src="https://api.opgc.me/githubs/users/5-23/tag/?theme=basic" /></a>   
