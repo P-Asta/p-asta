@@ -78,8 +78,12 @@
         <td>https://github.com/objectiveTM/stoney-bot</td>
     </tr>
     <tr>
-        <td>헬리오 윈(서버, 클라이언트, 유틸)</td>
-        <td>https://github.com/helloww-in</td>
+        <td>bridled(서버)</td>
+        <td>https://github.com/brid1ed</td>
+    </tr>
+    <tr>
+        <td>sta_(이름 미정)</td>
+        <td>https://github.com/5-23/sta_</td>
     </tr>
 </table>
 </details>
