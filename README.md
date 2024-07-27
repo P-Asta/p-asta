@@ -85,6 +85,10 @@
         <td>sta_(이름 미정)</td>
         <td>https://github.com/5-23/sta_</td>
     </tr>
+    <tr>
+        <td>astai(이름 미정)</td>
+        <td>https://github.com/5-23/astai</td>
+    </tr>
 </table>
 </details>
 
