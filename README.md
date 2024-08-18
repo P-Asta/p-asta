@@ -74,6 +74,10 @@
         <th>소스코드</th>
     </tr>
     <tr>
+        <td>NY Music(mobile)</td>
+        <td>https://github.com/5-23/ny-music</td>
+    </tr>
+    <tr>
         <td>돌돌이 디스코드봇</td>
         <td>https://github.com/objectiveTM/stoney-bot</td>
     </tr>
