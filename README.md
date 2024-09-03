@@ -6,12 +6,12 @@
 
 ## github
 <div align="center">
-<a href="https://opgc.me/#/users/5-23" target="_blank"><img src="https://api.opgc.me/githubs/users/ah-sta/tag/?theme=basic" /></a>   
+<a href="https://opgc.me/#/users/5-23" target="_blank"><img src="https://api.opgc.me/githubs/users/p-asta/tag/?theme=basic" /></a>   
     
-![status](https://github-readme-stats.vercel.app/api?username=ah-sta&show_icons=true&theme=white)
+![status](https://github-readme-stats.vercel.app/api?username=p-asta&show_icons=true&theme=white)
 
 
-![gra](https://github-readme-activity-graph.vercel.app/graph?username=ah-sta&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
+![gra](https://github-readme-activity-graph.vercel.app/graph?username=p-asta&bg_color=ffffff&color=3366ff&line=3366ff&point=3366ff&area=true&hide_border=true)
 
 </div>
 
@@ -25,11 +25,11 @@
     </tr>
     <tr>
         <td>NY Music</td>
-        <td>https://github.com/5-23/ny-music</td>
+        <td>https://github.com/p-asta/ny-music</td>
     </tr>
     <tr>
         <td>NY Music(mobile)</td>
-        <td>https://github.com/5-23/ny-music</td>
+        <td>https://github.com/p-asta/ny-music</td>
     </tr>
     <tr>
         <td>tosspay-rs</td>
@@ -41,31 +41,31 @@
     </tr>
     <tr>
         <td>pet</td>
-        <td>https://github.com/5-23/pet</td>
+        <td>https://github.com/p-asta/pet</td>
     </tr>
     <tr>
         <td>stonyite</td>
-        <td>https://github.com/5-23/stonyite</td>
+        <td>https://github.com/p-asta/stonyite</td>
     </tr>
     <tr>
         <td>ＬＩＭＢＯ</td>
-        <td>https://github.com/5-23/limbo</td>
+        <td>https://github.com/p-asta/limbo</td>
     </tr>
     <tr>
         <td>rust-tetris</td>
-        <td>https://github.com/5-23/rust-tetris</td>
+        <td>https://github.com/p-asta/rust-tetris</td>
     </tr>
     <tr>
         <td>rust-sanke</td>
-        <td>https://github.com/5-23/rust-snake</td>
+        <td>https://github.com/p-asta/rust-snake</td>
     </tr>
     <tr>
         <td>colorfully-rs</td>
-        <td>https://github.com/5-23/colorfully-rs</td>
+        <td>https://github.com/p-asta/colorfully-rs</td>
     </tr>
     <tr>
         <td>웹게임</td>
-        <td>https://github.com/5-23/game-project</td>
+        <td>https://github.com/p-asta/game-project</td>
     </tr>
 </table>
 </details>
@@ -87,11 +87,11 @@
     </tr>
     <tr>
         <td>sta_(이름 미정)</td>
-        <td>https://github.com/5-23/sta_</td>
+        <td>https://github.com/p-asta/sta_</td>
     </tr>
     <tr>
         <td>astai</td>
-        <td>https://github.com/5-23/astai</td>
+        <td>https://github.com/p-asta/astai</td>
     </tr>
 </table>
 </details>
@@ -133,15 +133,15 @@
     </tr>
     <tr>
         <td>todo</td>
-        <td>https://github.com/5-23/todo</td>
+        <td>https://github.com/p-asta/todo</td>
     </tr>
     <tr>
         <td>하몽이 디스코드</td>
-        <td>https://github.com/5-23/hamong</td>
+        <td>https://github.com/p-asta/hamong</td>
     </tr>
     <tr>
         <td>imager(분석하다 때려친거라 다시 시작할예정)</td>
-        <td>https://github.com/5-23/imager-rs</td>
+        <td>https://github.com/p-asta/imager-rs</td>
     </tr>
 </table>
 </details>
