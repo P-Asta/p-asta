@@ -6,7 +6,7 @@
 
 ## github
 <div align="center">
-<a href="https://opgc.me/#/users/5-23" target="_blank"><img src="https://api.opgc.me/githubs/users/p-asta/tag/?theme=basic" /></a>   
+<a href="https://opgc.me/#/users/p-asta" target="_blank"><img src="https://api.opgc.me/githubs/users/p-asta/tag/?theme=basic" /></a>   
     
 ![status](https://github-readme-stats.vercel.app/api?username=p-asta&show_icons=true&theme=white)
 
