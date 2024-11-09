@@ -28,10 +28,6 @@
         <td>https://github.com/p-asta/ny-music</td>
     </tr>
     <tr>
-        <td>NY Music(mobile)</td>
-        <td>https://github.com/p-asta/ny-music</td>
-    </tr>
-    <tr>
         <td>tosspay-rs</td>
         <td>https://github.com/tosspay-lib/tosspay-rs</td>
     </tr>
@@ -78,20 +74,8 @@
         <th>소스코드</th>
     </tr>
     <tr>
-        <td>돌돌이 디스코드봇</td>
-        <td>https://github.com/objectiveTM/stoney-bot</td>
-    </tr>
-    <tr>
-        <td>bridled(서버)</td>
-        <td>https://github.com/brid1ed</td>
-    </tr>
-    <tr>
-        <td>sta_(이름 미정)</td>
-        <td>https://github.com/p-asta/sta_</td>
-    </tr>
-    <tr>
-        <td>astai</td>
-        <td>https://github.com/p-asta/astai</td>
+        <td>ny-music(v2)</td>
+        <td>비공개</td>
     </tr>
 </table>
 </details>
@@ -115,33 +99,6 @@
     <tr>
         <td>shuttle docs</td>
         <td>https://github.com/shuttle-hq/shuttle-docs</td>
-    </tr>
-</table>
-</details>
-
-
-<details>
-<summary>죽은 프로잭트</summary>
-<table>
-    <tr>
-        <th>프로젝트명</th>
-        <th>소스코드</th>
-    </tr>
-    <tr>
-        <td>wa-sans</td>
-        <td>비공계 https://www.youtube.com/watch?v=csaJelNRju8</td>
-    </tr>
-    <tr>
-        <td>todo</td>
-        <td>https://github.com/p-asta/todo</td>
-    </tr>
-    <tr>
-        <td>하몽이 디스코드</td>
-        <td>https://github.com/p-asta/hamong</td>
-    </tr>
-    <tr>
-        <td>imager(분석하다 때려친거라 다시 시작할예정)</td>
-        <td>https://github.com/p-asta/imager-rs</td>
     </tr>
 </table>
 </details>
