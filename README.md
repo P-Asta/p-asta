@@ -77,6 +77,10 @@
         <td>ny-music(v2)</td>
         <td>비공개</td>
     </tr>
+    <tr>
+        <td>ny-music(v2, MOBILE)</td>
+        <td>비공개</td>
+    </tr>
 </table>
 </details>
 
