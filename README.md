@@ -97,7 +97,8 @@
         <td>https://github.com/Phant80m/Dotfiles</td>
     </tr>
     <tr>
-        <td>Seraphite</td>
+        <td>Seraphite!</td>
+        
         <td>https://github.com/Phant80m/Seraphite</td>
     </tr>
     <tr>
